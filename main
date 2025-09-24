@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Clock Embed</title>
+</head>
+<body style="margin:0;padding:0;">
+  <iframe
+    scrolling="no"
+    frameborder="no"
+    style="overflow:hidden;border:0;margin:0;padding:0;width:150px;height:150px;"
+    src="https://www.clocklink.com/html5embed.php?clock=021&timezone=GMT0800&color=brown&size=150&Title=&Message=&Target=&From=2025,1,1,0,0,0&Color=brown">
+  </iframe>
+</body>
+</html>
